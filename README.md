@@ -1,1 +1,3 @@
-# JavaScript_Fundamentals
+<h1>JavaScript Fundamentals</h1>
+
+<p>This is a PluralSight Course <a href="https://www.pluralsight.com/courses/javascript-fundamentals">JS Fundamentals</a>. Unfortunately, there is no actual code to upload. This course just demonstrates how to use JavaScript piece by piece instead of building anything. It teaches: Constants, the let vs var keywords, rest parameters, spread syntax, destructuring arrays and objects, common type conversions, how to use break; and continue; for controlling loops. It dives into all the operators and operator precedence. It teaches Functions and Scope, Objects and Arrays, Classes and Modules, Programming the BOM and DOM, Promises and Error Handling, Data Access using HTTP, Forms, and Security and Building for Production.</p>
